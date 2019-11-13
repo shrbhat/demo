@@ -1,7 +1,4 @@
 {
-	"data": {
-		"getPartyRole": {
-			"partyRoleId": "628767d2-0ba9-4bbc-8b38-521666ea0237"
-		}
-	}
+  "id": 1,
+  "title": "hello"
 }
